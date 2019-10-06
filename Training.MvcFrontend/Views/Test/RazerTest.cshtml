@@ -1,0 +1,22 @@
+﻿@{ 
+    string message = "Hello World";
+}
+
+<h1>@message</h1>
+
+@for (int i=0; i<10; i++)
+{
+    <div>@WriteSquareRoot(i)</div>
+}
+
+@helper WriteSquareRoot(double d)
+{
+    @Math.Sqrt(d);
+}
+
+@functions {
+    public static double SquareRoot(double x)
+    {
+        return Math.Sqrt(x);
+    }
+}

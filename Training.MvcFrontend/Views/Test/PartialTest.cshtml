@@ -1,0 +1,18 @@
+﻿@using Training.DomainModel
+@{
+    ViewBag.Title = "PartialTest";
+}
+
+<h2>PartialTest</h2>
+
+@{ 
+    Product p = new Product
+    {
+        ProductName = "AlexProduct",
+        UnitPrice = 18
+    };
+}
+
+<h2>Hello partial cucc</h2>
+
+@Html.Partial("ProductPartial", p)

@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\Training\Training.DomainModel\bin\Release\Training.DomainModel.dll
+C:\Users\student\source\repos\Training\Training.DomainModel\bin\Release\Training.DomainModel.pdb
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Release\Training.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Release\Training.DomainModel.dll
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Release\Training.DomainModel.pdb

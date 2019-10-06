@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Training\Training.DomainModel\bin\Debug\Training.DomainModel.dll
+C:\Users\student\source\repos\Training\Training.DomainModel\bin\Debug\Training.DomainModel.pdb
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Debug\Training.DomainModel.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Debug\Training.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Debug\Training.DomainModel.dll
+C:\Users\student\source\repos\Training\Training.DomainModel\obj\Debug\Training.DomainModel.pdb
+c:\Users\alext\Downloads\Training\Training.DomainModel\bin\Debug\Training.DomainModel.dll
+c:\Users\alext\Downloads\Training\Training.DomainModel\bin\Debug\Training.DomainModel.pdb
+c:\Users\alext\Downloads\Training\Training.DomainModel\obj\Debug\Training.DomainModel.csprojAssemblyReference.cache
+c:\Users\alext\Downloads\Training\Training.DomainModel\obj\Debug\Training.DomainModel.csproj.CoreCompileInputs.cache
+c:\Users\alext\Downloads\Training\Training.DomainModel\obj\Debug\Training.DomainModel.dll
+c:\Users\alext\Downloads\Training\Training.DomainModel\obj\Debug\Training.DomainModel.pdb

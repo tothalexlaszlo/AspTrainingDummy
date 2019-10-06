@@ -1,0 +1,14 @@
+﻿@using Training.DomainModel
+@model int?
+
+@{ 
+    var categories = (List<Category>)ViewBag.Categories;
+}
+
+@Html.DropDownListFor(model => model,
+                       categories.Select(cat => new SelectListItem
+                       {
+                           Value = cat.CategoryID.ToString(),
+                           Text = cat.CategoryName, 
+                           Selected = cat.CategoryID == Model
+                       }), ViewData["htmlAttributes"])
